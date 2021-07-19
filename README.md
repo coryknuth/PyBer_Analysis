@@ -28,11 +28,11 @@ Ultimately, this difference in average fare, was not signifcant enough to overco
 
 ## Recommendations
 
-### 1. Add Drivers to Rural and Suburban Areas
+1. Add Drivers to Rural and Suburban Areas  
     With the higher average fares in these areas, there is potential for strong increases in total revenue by adding drivers to them. There is a point of diminishing return on       the efficiency of the increase because of lower demand in these areas and eventually creating too much supply, but there appears to be ample room currently for driver growth     in these markets.
     
-### 2. Reduce Drivers in Urban Areas
+2. Reduce Drivers in Urban Areas  
     Oversaturation of drivers in Urban areas may be a concern driving downa average fares, driving down efficency per driver. We think it is worth exploring reducing the             available driver pool during off hours to drive fares up and increase the per ride average fare, without reducing revenue.
     
-### 3. Consider Stronger Price Controls to Reduce Variance
+3. Consider Stronger Price Controls to Reduce Variance  
     It's possible stronger price control is needed over the fare changes that happen during peak and off hours. We wouldn't want to eliminate this price curve as it is an           important part of the business for both increasing profit and regulating supply against demand using price, however in rural areas there may be too wide of a range of           possible prices. It is worth examining tighting this range to increase profitability.
